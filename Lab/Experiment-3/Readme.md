@@ -168,9 +168,9 @@ _Typical result (approx):_
 
 | Image Type   | Size      |
 | ------------ | --------- |
-| nginx:latest | 161 MB    |
-| nginx-ubuntu | 134 MB    |
-| nginx-alpine | 10.4 MB   |
+| nginx:latest | 240 MB    |
+| nginx-ubuntu | 199 MB    |
+| nginx-alpine | 16 MB   |
 
 
 
