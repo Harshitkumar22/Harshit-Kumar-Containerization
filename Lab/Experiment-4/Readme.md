@@ -443,7 +443,7 @@ curl http://localhost:3000
 
 <h4 align="center"> DockerHub </h4>
 
-View Pushed Image on [DockerHub](https://hub.docker.com/repositories/dhairyathareja)
+View Pushed Image on [DockerHub](https://hub.docker.com/repositories/harshitkumar22)
 
 ![DockerHub](./Images/41.png)
 
