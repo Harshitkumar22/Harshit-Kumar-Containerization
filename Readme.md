@@ -12,8 +12,12 @@ It includes a structured collection of classwork hands-on exercises and lab expe
 
 📌 **Classwork Hands-On**  
 Contains guided in-class exercises, demonstrations, and practice tasks aimed at strengthening conceptual understanding.  
-👉 [Explore Classwork Hands-On](./ClassHands-on//Readme.md)
+👉 [Explore Classwork Hands-On](./CLASS-HANDS-ON/README.md)
 
 📌 **Lab Experiments**  
 Includes detailed laboratory experiments performed to reinforce theoretical knowledge through practical implementation.  
-👉 [Explore Lab Experiments](./Lab/Readme.md)
+👉 [Explore Lab Experiments](./LAB/Readme.md)
+
+📌 **Assignments**  
+Includes practical assignments covering real-world implementation of DevOps and containerization concepts.  
+👉 [Explore Assignment-1](./ASSIGNMENTS/ASSIGNMENT-1/README.md)
