@@ -20,6 +20,6 @@ The table below provides an overview of the lab experiments included in this rep
 | [Experiment-5](./Experiment-5)| | |
 | [Experiment-6](./Experiment-6)| | |
 | [Experiment-7](./Experiment-7)| | |
-| [Experiment-8](./Experiment-8)| | |
-| [Experiment-9](./Experiment-9/README.md)| | |
-| [Experiment-10](./Experiment-10/README.md)| | |
+| [Experiment-8](./Experiment-8)| CI/CD via Jenkins | Automate Build via Jenkins |
+| [Experiment-9](./Experiment-9/README.md)| Ansible | Automate Infrastructure Orchestartion & Updations |
+| [Experiment-10](./Experiment-10/README.md)| Working with SonarQube | Generate Code Quality Report via SonarQube |
