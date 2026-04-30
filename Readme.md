@@ -21,4 +21,4 @@ Includes detailed laboratory experiments performed to reinforce theoretical know
 📌 **Assignments**  
 Includes practical assignments covering real-world implementation of DevOps and containerization concepts.  
 👉 [Explore Assignment-1](./ASSIGNMENTS/ASSIGNMENT-1/README.md)
-👉 [Explore Assignment-2](./ASSIGNMENTS/ASSIGNMENT-2)
+👉 [Explore Assignment-2](./ASSIGNMENTS/ASSIGNMENT-2/Assignment-2 (Harshit Kumar-500122407).pdf)
