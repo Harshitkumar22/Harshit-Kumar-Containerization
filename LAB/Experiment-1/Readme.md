@@ -152,3 +152,16 @@ free -h
 | CPU Overhead | Higher          | Minimal   |
 | Disk Usage   | Larger          | Smaller   |
 | Isolation    | Strong          | Moderate  |
+
+
+<hr>
+
+<div align="center">
+
+<a href="../Experiment-1/" class="btn btn-outline">⬅️ Previous</a>
+&nbsp;&nbsp;
+<a href="../" class="btn">🏠︎ Home</a>
+&nbsp;&nbsp;
+<a href="../Experiment-2/" class="btn btn-primary">Next ➡️</a>
+
+</div>

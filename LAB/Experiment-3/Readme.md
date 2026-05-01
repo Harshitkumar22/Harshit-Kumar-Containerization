@@ -287,12 +287,10 @@ _Example use cases:_
 
 <div align="center">
 
-<a href="../Experiment-2/">
-  <img src="https://img.shields.io/badge/⬅️_Previous-grey?style=for-the-badge">
-</a>
-&nbsp;
-<a href="../../Lab/">
-  <img src="https://img.shields.io/badge/⌂_Home-black?style=for-the-badge">
-</a>
+<a href="../Experiment-2/" class="btn btn-outline">⬅️ Previous</a>
+&nbsp;&nbsp;
+<a href="../" class="btn">🏠︎ Home</a>
+&nbsp;&nbsp;
+<a href="../Experiment-4/" class="btn btn-primary">Next ➡️</a>
 
 </div>
